@@ -96,7 +96,7 @@
                         },
                         "title": {
                             "es": "URL de API:",
-                            "en": "Endpint API:"
+                            "en": "API URL:"
                         },
                         "help": {
                             "en": "Obtain your api on https://cloud.ocrsdk.com/",
@@ -108,8 +108,8 @@
                     {
                         "type": "input",
                         "placeholder": {
-                            "es": "{resultado}",
-                            "en": "{result}"
+                            "es": "resultado",
+                            "en": "result"
                         },
                         "title": {
                             "es": "Resutlado",
