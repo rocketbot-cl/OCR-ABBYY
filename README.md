@@ -8,7 +8,7 @@ To get credentials you must create an account in <strong><a href="https://cloud.
 
 ![alt text](https://raw.githubusercontent.com/rocketbot-cl/OCR_ABBYY/master/example/abbyy.png)
 
-Video Example:
+<strong>Video Example:</strong>
 
 [![OCR ABBYY](https://img.youtube.com/vi/BGSfPlmg1xw/0.jpg)](https://www.youtube.com/watch?v=BGSfPlmg1xw "OCR ABBYY")
 
