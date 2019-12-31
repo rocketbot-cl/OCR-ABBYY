@@ -4,17 +4,23 @@ Module for OCR to PDF file
 
 **In the example robot you must change the URL and credentials for yours.
 
-To get credentials you must create an account in <a href="https://cloud.ocrsdk.com/">OCR SDK</a>
+To get credentials you must create an account in <strong><a href="https://cloud.ocrsdk.com/">OCR SDK</a></strong>
 
 ![alt text](https://raw.githubusercontent.com/rocketbot-cl/OCR_ABBYY/master/example/abbyy.png)
+
+Video Example:
+
+[![OCR ABBYY](https://img.youtube.com/vi/BGSfPlmg1xw/0.jpg)](https://www.youtube.com/watch?v=BGSfPlmg1xw "OCR ABBYY")
 
 <h2>Link to API documentation</h2>
 <p>
   <ul>
     <li>
-      <a href="https://www.ocrsdk.com/documentation/api-reference/">
-        ABBY OCR Cloud
-      </a>
+      <strong>
+          <a href="https://www.ocrsdk.com/documentation/api-reference/">
+            ABBY OCR Cloud
+          </a>
+      </strong>
     </li>
   </ul> 
 </p>
