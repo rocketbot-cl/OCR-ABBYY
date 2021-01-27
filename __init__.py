@@ -160,7 +160,8 @@ def recognize_file(file_path, result_file_path, language, output_format):
     # at https://ocrsdk.com/documentation/apireference/listFinishedTasks/).
 
     while task.is_active():
-        time.sleep(5)
+        
+        sleep(5)
         print(".", end="")
         task = processor.get_task_status(task)
 
@@ -199,7 +200,7 @@ if module == "GetOCRCloud":
         processor.Password = Pass
         processor.ServerUrl = url
         recognize_file(File, "res.txt", "Spanish", "txt")
-        with open("res.txt",'r',encoding='utf-8') as f:
+        with open("res.txt",'r',encoding='latin-1') as f:
             data = f.read()
             f.close()
 
